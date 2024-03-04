@@ -7,9 +7,10 @@ import Perfil from "./pages/Perfil";
 import Game from "./pages/Game";
 import Badge from "./pages/Badge";
 
+
 function App(){
   return(
-    <div>
+    <div id="rotas">
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}/>
