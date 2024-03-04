@@ -1,0 +1,108 @@
+body{
+  background-color: rgb(206, 187, 252);
+}
+
+#bemvindo{
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 150px;
+}
+
+#texto{
+  font-size: 23px;
+  text-align: center;
+
+}
+
+#ameixinha{
+  width: auto;
+  height: 500px;
+  margin-top: -295px;
+ 
+}
+
+#amora{
+  width: auto;
+  height: 400px;
+  margin-left: 500px;
+  margin-right: 100px;
+  margin-top: -235px;
+}
+
+.imagens{
+  display: flex;
+ 
+}
+
+.quadro-infos{
+  background-color: rgb(194, 157, 255);
+  width: 300px;
+  height: 250px;
+  
+}
+
+#game{
+  font-size: 23px;
+  text-align: center;
+  margin-top: 90px;
+  font-weight: bold;
+}
+
+.jogos-cima{
+  display: flex;
+  height:195.31px;
+  width: 400px;
+  margin-top: 50px;
+  gap: 25px;
+}
+
+.jogos-embaixo{
+  display: flex;
+  height: 195.31px;
+  width: 400px;
+  margin-top: 120px;
+  gap: 180px;
+}
+
+.jogos{
+  margin-left: 255px; 
+}
+
+.cima,
+.embaixo{
+  display: flex;
+  gap: 117px;
+  margin-left: 25px;
+  font-size: 17px;
+}
+
+#sobre{
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 90px;
+}
+
+#texto-sobre{
+  font-size: 23px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#laranjinha{
+  height: auto;
+  width: 320px;
+  margin-top: -250px;
+  margin-left: 900px;
+}
+
+.contatos{
+  background-color: rgb(156, 120, 255);
+  font-size: 18px;
+  width: 400px;
+  height: auto;
+  border-radius: 15px;
+  
+}
+
